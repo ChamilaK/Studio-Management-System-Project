@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="images"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/ICT - 325 LECTURES/jasper Report jar/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/ICT - 325 LECTURES/jasper Report jar/bcmail-jdk14-1.38.jar"/>
+	<classpathentry kind="lib" path="E:/ICT - 325 LECTURES/jasper Report jar/bcmail-jdk14-138.jar"/>
+	<classpathentry kind="lib" path="E:/ICT - 325 LECTURES/jasper Report jar/bcprov-jdk14-1.38.jar"/>
+	<classpathentry kind="lib" path="E:/ICT - 325 LECTURES/jasper Report jar/bcprov-jdk14-138.jar"/>
+	<classpathentry kind="lib" path="E:/ICT - 325 LECTURES/jasper Report jar/bctsp-jdk14-1.38.jar"/>
+	<classpathentry kind="lib" path="E:/ICT - 325 LECTURES/jasper Report jar/castor-core-1.3.3.jar"/>
+	<classpathentry kind="lib" path="E:/ICT - 325 LECTURES/jasper Report jar/castor-xml-1.3.3.jar"/>
+	<classpathentry kind="lib" path="E:/ICT - 325 LECTURES/jasper Report jar/commons-beanutils-1.9.0.jar"/>
+	<classpathentry kind="lib" path="E:/ICT - 325 LECTURES/jasper Report jar/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/ICT - 325 LECTURES/jasper Report jar/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="E:/ICT - 325 LECTURES/jasper Report jar/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="E:/ICT - 325 LECTURES/jasper Report jar/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/ICT - 325 LECTURES/jasper Report jar/core-2.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/ICT - 325 LECTURES/jasper Report jar/ecj-4.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/ICT - 325 LECTURES/jasper Report jar/icu4j-57.1.jar"/>
+	<classpathentry kind="lib" path="E:/ICT - 325 LECTURES/jasper Report jar/itext-2.1.7.js5.jar"/>
+	<classpathentry kind="lib" path="E:/ICT - 325 LECTURES/jasper Report jar/jackson-annotations-2.1.4.jar"/>
+	<classpathentry kind="lib" path="E:/ICT - 325 LECTURES/jasper Report jar/jackson-core-2.1.4.jar"/>
+	<classpathentry kind="lib" path="E:/ICT - 325 LECTURES/jasper Report jar/jackson-databind-2.1.4.jar"/>
+	<classpathentry kind="lib" path="E:/ICT - 325 LECTURES/jasper Report jar/jakarta-regexp-1.4.jar"/>
+	<classpathentry kind="lib" path="E:/ICT - 325 LECTURES/jasper Report jar/jasperreports-6.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/ICT - 325 LECTURES/jasper Report jar/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="E:/ICT - 325 LECTURES/jasper Report jar/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="E:/ICT - 325 LECTURES/jasper Report jar/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="E:/ICT - 325 LECTURES/jasper Report jar/lucene-analyzers-common-4.5.1.jar"/>
+	<classpathentry kind="lib" path="E:/ICT - 325 LECTURES/jasper Report jar/lucene-core-4.5.1.jar"/>
+	<classpathentry kind="lib" path="E:/ICT - 325 LECTURES/jasper Report jar/lucene-queries-4.5.1.jar"/>
+	<classpathentry kind="lib" path="E:/ICT - 325 LECTURES/jasper Report jar/lucene-queryparser-4.5.1.jar"/>
+	<classpathentry kind="lib" path="E:/ICT - 325 LECTURES/jasper Report jar/lucene-sandbox-4.5.1.jar"/>
+	<classpathentry kind="lib" path="E:/ICT - 325 LECTURES/jasper Report jar/olap4j-0.9.7.309-JS-3.jar"/>
+	<classpathentry kind="lib" path="E:/ICT - 325 LECTURES/jasper Report jar/spring-aop-3.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/ICT - 325 LECTURES/jasper Report jar/spring-asm-3.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/ICT - 325 LECTURES/jasper Report jar/spring-beans-3.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/ICT - 325 LECTURES/jasper Report jar/spring-context-3.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/ICT - 325 LECTURES/jasper Report jar/spring-core-3.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/ICT - 325 LECTURES/jasper Report jar/spring-expression-3.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/ICT - 325 LECTURES/jasper Report jar/stax-1.2.0.jar"/>
+	<classpathentry kind="lib" path="E:/ICT - 325 LECTURES/jasper Report jar/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/ICT - 325 LECTURES/jasper Report jar/stax-api-1.0-2.jar"/>
+	<classpathentry kind="lib" path="E:/ICT - 325 LECTURES/com.mysql.jdbc_5.1.5.jar"/>
+	<classpathentry kind="lib" path="E:/ICT - 325 LECTURES/rs2xml/rs2xml.jar"/>
+	<classpathentry kind="lib" path="E:/ICT - 325 LECTURES/MySQL Connector/mysql-connector-java-8.0.25/mysql-connector-java-8.0.25.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
